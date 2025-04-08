@@ -1,6 +1,6 @@
 # 🧩 Atividade 02 – Layout com Flexbox e Grid + Flexbox
 
-## 📚 Disciplina: Programação para Web  
+## 📚 Disciplina: Programação IV
 **Professor:** Augusto César Oliveira  
 **Aluno:** Gabriel Gomes Barbosa  
 
