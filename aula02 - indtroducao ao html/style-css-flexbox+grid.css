@@ -1,0 +1,125 @@
+    * {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background-color: white;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    header {
+      background-color: red;
+      border: solid black;
+      padding: 0 1rem;
+      height: 60px;
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+    }
+
+    nav {
+      background-color: rgb(42, 165, 138);
+      padding: 5px 10px;
+      border: solid black;
+    }
+
+    main {
+      flex: 1;
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 1rem;
+      background-color: #92cb17;
+      padding: 1rem;
+      border: solid black;
+    }
+
+    .alinhar {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      border: solid black;
+      padding: 1rem;
+    }
+
+    .sessao1,
+    .sessao2 {
+      background-color: #00fff2;
+      padding: 1rem;
+      border: solid black;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .sessao2 {
+      background-color: #ff00d9;
+    }
+
+    article {
+      background-color: #113ada;
+      padding: 0.5rem;
+      border: solid black;
+      color: white;
+    }
+
+    aside {
+      background-color: rgb(255, 145, 0);
+      padding: 1rem;
+      border: solid black;
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+      align-items: center;
+    }
+
+    .sessao-aside {
+      background-color: #ff0000;
+      width: 100%;
+      text-align: center;
+      padding: 1rem;
+      border: solid black;
+    }
+
+    footer {
+      background-color: #f700ff;
+      height: 100px;
+      border: solid black;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 1rem;
+    }
+
+    /* Responsividade */
+    @media (max-width: 768px) {
+      main {
+        grid-template-columns: 1fr;
+      }
+
+      aside {
+        order: -1;
+      }
+    }
+
+    @media (max-width: 480px) {
+      header {
+        flex-direction: column;
+        height: auto;
+        text-align: center;
+      }
+
+      nav {
+        width: 100%;
+        text-align: center;
+      }
+
+      article,
+      .sessao-aside {
+        font-size: 0.9rem;
+      }
+    }
