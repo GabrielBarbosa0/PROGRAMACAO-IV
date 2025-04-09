@@ -58,8 +58,6 @@ Você pode acessar a versão publicada dos dois projetos através do GitHub Page
 - 🔗 [Versão Flexbox](https://gabrielbarbosa0.github.io/PROGRAMACAO-IV/Introdu%C3%A7%C3%A3o-ao-CSS/Atividade-02-Introduc%CC%A7a%CC%83o-a-o-CSS-Programac%CC%A7a%CC%83o-para-Web/Layout-Flexbox/index.html)
 - 🔗 [Versão Grid + Flexbox](https://gabrielbarbosa0.github.io/PROGRAMACAO-IV/Introdu%C3%A7%C3%A3o-ao-CSS/Atividade-02-Introduc%CC%A7a%CC%83o-a-o-CSS-Programac%CC%A7a%CC%83o-para-Web/Layout-Flexbox-e-Grid/index.html)
 
-> Substitua os links acima pelos seus URLs reais após o deploy
-
 ---
 
 ## ✅ Conclusão
