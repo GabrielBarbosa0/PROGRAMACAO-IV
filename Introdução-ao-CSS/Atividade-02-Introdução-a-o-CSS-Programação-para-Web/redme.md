@@ -3,8 +3,7 @@
 ## 📚 Disciplina: Programação IV
 **Professor:** Augusto César Oliveira  
 **Aluno:** Gabriel Gomes Barbosa
-- 🔗 [Link do Repositório]([https://gabrielbarbosa0.github.io/PROGRAMACAO-IV/Introdu%C3%A7%C3%A3o-ao-CSS/Atividade-02-Introduc%CC%A7a%CC%83o-a-o-CSS-Programac%CC%A7a%CC%83o-para-Web/Layout-Flexbox/index.html](https://github.com/GabrielBarbosa0/PROGRAMACAO-IV/tree/main/Introdu%C3%A7%C3%A3o-ao-CSS/Atividade-02-Introduc%CC%A7a%CC%83o-a-o-CSS-Programac%CC%A7a%CC%83o-para-Web))
----
+- 🔗 [Link do Repositório](https://github.com/GabrielBarbosa0/PROGRAMACAO-IV/tree/8e26ba2fda49564ea3a8e87f18dc31d0cbc18e7f/Introdu%C3%A7%C3%A3o-ao-CSS/Atividade-02-Introduc%CC%A7a%CC%83o-a-o-CSS-Programac%CC%A7a%CC%83o-para-Web)
 
 ## 📌 Descrição
 
