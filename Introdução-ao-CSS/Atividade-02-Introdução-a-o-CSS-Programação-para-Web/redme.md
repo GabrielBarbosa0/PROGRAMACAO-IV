@@ -5,6 +5,16 @@
 **Aluno:** Gabriel Gomes Barbosa
 - 🔗 [Link do Repositório](https://github.com/GabrielBarbosa0/PROGRAMACAO-IV/tree/8e26ba2fda49564ea3a8e87f18dc31d0cbc18e7f/Introdu%C3%A7%C3%A3o-ao-CSS/Atividade-02-Introduc%CC%A7a%CC%83o-a-o-CSS-Programac%CC%A7a%CC%83o-para-Web)
 
+---
+
+## 🌐 Deploy
+
+Você pode acessar a versão publicada dos dois projetos através do GitHub Pages:
+
+- 🔗 [Versão Flexbox](https://gabrielbarbosa0.github.io/PROGRAMACAO-IV/Introdu%C3%A7%C3%A3o-ao-CSS/Atividade-02-Introduc%CC%A7a%CC%83o-a-o-CSS-Programac%CC%A7a%CC%83o-para-Web/Layout-Flexbox/index.html)
+- 🔗 [Versão Grid + Flexbox](https://gabrielbarbosa0.github.io/PROGRAMACAO-IV/Introdu%C3%A7%C3%A3o-ao-CSS/Atividade-02-Introduc%CC%A7a%CC%83o-a-o-CSS-Programac%CC%A7a%CC%83o-para-Web/Layout-Flexbox-e-Grid/index.html)
+
+
 ## 📌 Descrição
 
 Este repositório contém dois projetos distintos desenvolvidos como parte da Atividade 02 da disciplina de Programação para Web. Ambos os projetos reproduzem o mesmo layout base, porém com diferentes abordagens de estilização utilizando CSS:
@@ -48,14 +58,6 @@ Este repositório contém dois projetos distintos desenvolvidos como parte da At
 | Código mais limpo               | Mais verboso em layouts grandes  | Menor complexidade para layout geral                   |
 | Organização                     | Útil para componentes            | Ideal para estrutura geral da página                   |
 
----
-
-## 🌐 Deploy
-
-Você pode acessar a versão publicada dos dois projetos através do GitHub Pages:
-
-- 🔗 [Versão Flexbox](https://gabrielbarbosa0.github.io/PROGRAMACAO-IV/Introdu%C3%A7%C3%A3o-ao-CSS/Atividade-02-Introduc%CC%A7a%CC%83o-a-o-CSS-Programac%CC%A7a%CC%83o-para-Web/Layout-Flexbox/index.html)
-- 🔗 [Versão Grid + Flexbox](https://gabrielbarbosa0.github.io/PROGRAMACAO-IV/Introdu%C3%A7%C3%A3o-ao-CSS/Atividade-02-Introduc%CC%A7a%CC%83o-a-o-CSS-Programac%CC%A7a%CC%83o-para-Web/Layout-Flexbox-e-Grid/index.html)
 
 ---
 
