@@ -144,24 +144,24 @@ function inverterString(str) {
 
 // ////////////////////////////////////////
 
-console.log(soma(5, 3));  // Esperado: 8
-console.log(isPar(4));     // Esperado: true
-console.log(media(7, 8, 9));  // Esperado: 8
-console.log(imc(70, 1.75));  // Esperado: 22.86 (aproximadamente)
-console.log(calcularDesconto(100, 10));  // Esperado: 90
-console.log(calcularImpostoRenda(3000));  // Esperado: 450 (15% de 3000)
-console.log(calcularMediaArredondada([5, 7, 9]));  // Esperado: 7
-console.log(contarDigitosParesImpares(123456));  // Esperado: { pares: 3, impares: 3 }
-console.log(calcularMediaAlunos([{ nome: 'João', nota: 7 }, { nome: 'Maria', nota: 8 }, { nome: 'José', nota: 6 }]));  // Esperado: 7
-console.log(calcularIdade(2000));  // Esperado: a idade atual
-gerarTabuada(5);  // Esperado: Tabuada do 5
-advinheNumero();  // A função vai pedir ao usuário para adivinhar o número
-console.log(verificarPropriedade({ nome: 'Gabriel', idade: 25 }, 'idade'));  // Esperado: true
-console.log(calcularPrecoProduto(50, 20, 10));  // Esperado: 70
-console.log(encontrarPalavraMaisLonga('Tutorial de desenvolvimento da web'));  // Esperado: 'desenvolvimento'
-imprimirQuadro(["Hello", "World", "in", "a", "frame"]);  // Exibe as palavras dentro de um quadro
-console.log(filtrarStringsLongas(["short", "medium", "longword"]));  // Esperado: ['medium', 'longword']
-console.log(filtrarLivrosPorAutor([{ autor: 'J.K. Rowling', titulo: 'Harry Potter' }, { autor: 'George Orwell', titulo: '1984' }], 'J.K. Rowling'));  // Esperado: [{ autor: 'J.K. Rowling', titulo: 'Harry Potter' }]
-console.log(encontrarPessoaMaisVelha([{ nome: 'João', idade: 25 }, { nome: 'Maria', idade: 30 }]))  // Esperado: { nome: 'Maria', idade: 30 }
-console.log(filtrarCarrosPorAno([{ marca: 'Ford', modelo: 'Fusca', ano: 1960 }, { marca: 'Chevrolet', modelo: 'Celta', ano: 2000 }], 1990));  // Esperado: [{ marca: 'Chevrolet', modelo: 'Celta', ano: 2000 }]
-console.log(inverterString('hello'));  // Esperado: 'olleh'
+console.log(soma(5, 3));
+console.log(isPar(4));
+console.log(media(7, 8, 9)); 
+console.log(imc(70, 1.75));
+console.log(calcularDesconto(100, 10)); 
+console.log(calcularImpostoRenda(3000));
+console.log(calcularMediaArredondada([5, 7, 9]));
+console.log(contarDigitosParesImpares(123456));
+console.log(calcularMediaAlunos([{ nome: 'João', nota: 7 }, { nome: 'Maria', nota: 8 }, { nome: 'José', nota: 6 }]));
+console.log(calcularIdade(2000));
+gerarTabuada(5); 
+advinheNumero(); 
+console.log(verificarPropriedade({ nome: 'Gabriel', idade: 25 }, 'idade')); 
+console.log(calcularPrecoProduto(50, 20, 10)); 
+console.log(encontrarPalavraMaisLonga('Tutorial de desenvolvimento da web'));  
+imprimirQuadro(["Hello", "World", "in", "a", "frame"]); 
+console.log(filtrarStringsLongas(["short", "medium", "longword"])); 
+console.log(filtrarLivrosPorAutor([{ autor: 'J.K. Rowling', titulo: 'Harry Potter' }, { autor: 'George Orwell', titulo: '1984' }], 'J.K. Rowling'));  
+console.log(encontrarPessoaMaisVelha([{ nome: 'João', idade: 25 }, { nome: 'Maria', idade: 30 }]))  
+console.log(filtrarCarrosPorAno([{ marca: 'Ford', modelo: 'Fusca', ano: 1960 }, { marca: 'Chevrolet', modelo: 'Celta', ano: 2000 }], 1990));  
+console.log(inverterString('hello'));  
