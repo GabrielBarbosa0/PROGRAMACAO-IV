@@ -1,0 +1,7 @@
+post item 
+
+estrutura semântica
+
+importação nomeada , exportar componente não por padrão
+
+valore arbitrários 
