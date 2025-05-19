@@ -39,8 +39,13 @@ export default function PostItem({ post }: Props) {
 
       {/* Rodapé */}
       <div className="p-4">
-        <div className="flex gap-4 mb-2">
-          ❤️ 💬 📤 <span className="ml-auto">🔖</span>
+        <div className="flex gap-4 items-center mb-2">
+          <img src="/icons/heart.svg" alt="Curtir" className="w-6 h-6" />
+          <img src="/icons/comment.svg" alt="Comentar" className="w-6 h-6" />
+          <img src="/icons/share.svg" alt="Compartilhar" className="w-6 h-6" />
+          <span className="ml-auto">
+            <img src="/icons/bookmark.svg" alt="Salvar" className="w-6 h-6" />
+          </span>
         </div>
         <div className="text-sm text-gray-800 mb-1">
           Curtido por <strong>{post.likedBy}</strong> e{' '}
